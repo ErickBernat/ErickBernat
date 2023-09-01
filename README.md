@@ -1,1 +1,1 @@
-<img src="./imagens/2ROU.gi" alt="Banner">
+<img src="./imagens/2ROU.gif" alt="Banner">
