@@ -7,10 +7,8 @@
 
 
 # Status :
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErickBernat&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Erick Bernat github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBernat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErickBernat&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
 </div>
 
 # Redes :
@@ -20,14 +18,13 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/erick-duarte-bernat-20835a209" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"</a>
 </div>
 
-
----
-
-![](https://github-trophies.vercel.app/?username=ErickBernat&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+# Trofeus :
+<div align="center">  
+  <img  src="https://github-trophies.vercel.app/?username=ErickBernat&theme=radical&no-frame=true&no-bg=false&margin-w=4" /> 
+</div>
 
 <div align="center">  
-  <img  src="https://visitcount.itsvg.in/api?id=ErickBernat&icon=3&color=4)](https://visitcount.itsvg.in)" /> 
+  <img  src="https://visitcount.itsvg.in/api?id=ErickBernat&icon=0&color5)](https://visitcount.itsvg.in)" /> 
 </div>
 
 
